@@ -1,1 +1,1 @@
-# ch2Python-
+Expert system and applied Artificial Intelligence
